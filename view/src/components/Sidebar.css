@@ -1,0 +1,32 @@
+.sidebar {
+  width: 350px;
+  padding: 20px;
+  position: fixed;
+  top: 60px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.list-group-item {
+  color: black;
+}
+
+.list-group-item.active {
+  background-color: #2fa4e7;
+}
+
+.list-group-item a {
+  color: black;
+  text-decoration: none !important;
+}
+
+.list-group-item.active a {
+  color: white !important;
+}
+
+.li-icon {
+  margin-right: 10px;
+}

@@ -1,0 +1,30 @@
+.search-results-container {
+    position: fixed;
+    top: 60px; 
+    
+    width: 300px; 
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    z-index: 100;
+    margin-left: 417px;
+  }
+  
+  .search-results-container form {
+    margin-bottom: 10px;
+  }
+  
+  .search-results-container .list-group {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  
+  .search-results-container .list-group-item {
+    cursor: pointer;
+    border: none;
+  }
+  
+  .search-results-container .list-group-item:hover {
+    background-color: #f8f9fa; 
+  }
+  

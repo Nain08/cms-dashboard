@@ -1,0 +1,43 @@
+.category-container {
+    padding-top: 60px;
+    padding-left: 370px;
+}
+    
+.category-heading {
+    display: flex;
+    align-items: center;
+    color: #1379b4;
+    margin-bottom: 20px;
+}
+    
+.heading-icon {
+    margin-right: 10px;
+    font-size: 30px;
+}
+    
+.heading-text {
+    font-size: 30px;
+}
+    
+.location {
+    background-color: #f1f1f1;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+    
+.cell-heading {
+    cursor: pointer;
+}
+    
+.sort-icon {
+    color: black;
+    margin-left: 5px;
+    font-size: 0.8em;
+    position: relative;
+}
+    
+
+.visible {
+    visibility: visible !important;
+}
+    

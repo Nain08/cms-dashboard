@@ -1,0 +1,29 @@
+.dashboard {
+  padding-top: 60px;
+  padding-left: 370px;
+}
+.dashboard-heading {
+  display: flex;
+  align-items: center;
+  color: #1379b4;
+  margin-bottom: 20px;
+}
+
+.heading-icon {
+  margin-right: 10px;
+  font-size: 40px;
+}
+
+.heading-text {
+  font-size: 40px;
+}
+
+.dashboard-content {
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.dashboard-content h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
